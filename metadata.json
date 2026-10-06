@@ -1,0 +1,6 @@
+{
+  "name": "KINETIC // Elite Fitness & Hypertrophy Engine",
+  "description": "Comprehensive fitness platform featuring dynamic workout split generation, animated exercise mechanics, 3D anatomy heatmaps, volume load analytics, 1RM calculator, and Mifflin-St Jeor macro nutrition planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
